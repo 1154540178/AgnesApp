@@ -13,4 +13,6 @@
     <color name="agnes_green">#10B981</color>
     <color name="agnes_user_msg">#4A90D9</color>
     <color name="agnes_ai_msg">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
 </resources>
