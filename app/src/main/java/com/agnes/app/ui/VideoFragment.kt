@@ -1,6 +1,5 @@
 package com.agnes.app.ui
 
-import android.net.Uri
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
@@ -12,6 +11,7 @@ import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.agnes.app.R
 import com.agnes.app.api.AgnesRepository
+import com.agnes.app.databinding.FragmentVideoBinding
 import com.agnes.app.ui.VideoAdapter.VideoItem
 import kotlinx.coroutines.*
 
