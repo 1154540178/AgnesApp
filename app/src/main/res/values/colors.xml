@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="agnes_primary">#4A90D9</color>
+    <color name="agnes_primary_dark">#2E6DB0</color>
+    <color name="agnes_primary_light">#7AB8F5</color>
+    <color name="agnes_surface">#FFFFFF</color>
+    <color name="agnes_bg">#F0F2F5</color>
+    <color name="agnes_text">#1A1A2E</color>
+    <color name="agnes_text_secondary">#6B7280</color>
+    <color name="agnes_white">#FFFFFF</color>
+    <color name="agnes_black">#000000</color>
+    <color name="agnes_red">#EF4444</color>
+    <color name="agnes_green">#10B981</color>
+    <color name="agnes_user_msg">#4A90D9</color>
+    <color name="agnes_ai_msg">#FFFFFF</color>
+</resources>

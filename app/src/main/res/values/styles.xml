@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ChatBubbleUser" parent="">
+        <item name="android:background">@drawable/bubble_user</item>
+        <item name="android:padding">@dimen/padding_medium</item>
+        <item name="android:textColor">@color/agnes_white</item>
+        <item name="android:textSize">@dimen/text_size_normal</item>
+    </style>
+
+    <style name="ChatBubbleAI" parent="">
+        <item name="android:background">@drawable/bubble_ai</item>
+        <item name="android:padding">@dimen/padding_medium</item>
+        <item name="android:textColor">@color/agnes_text</item>
+        <item name="android:textSize">@dimen/text_size_normal</item>
+    </style>
+</resources>

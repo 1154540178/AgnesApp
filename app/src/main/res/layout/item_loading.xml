@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="@dimen/padding_medium"
+    android:background="@drawable/bubble_ai"
+    android:gravity="center_vertical">
+
+    <ProgressBar
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:indeterminateTint="@color/agnes_primary" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="生成中..."
+        android:layout_marginStart="@dimen/padding_small"
+        android:textColor="@color/agnes_text_secondary"
+        android:textSize="@dimen/text_size_normal" />
+
+</LinearLayout>

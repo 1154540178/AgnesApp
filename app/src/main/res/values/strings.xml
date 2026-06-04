@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Agnes AI</string>
+    <string name="tab_chat">对话</string>
+    <string name="tab_image">图片</string>
+    <string name="tab_video">视频</string>
+    <string name="btn_send">发送</string>
+    <string name="btn_generate">生成</string>
+    <string name="input_placeholder">输入消息...</string>
+    <string name="image_placeholder">描述你想要的图片...</string>
+    <string name="video_placeholder">描述你想要的视频...</string>
+    <string name="setting_title">API 设置</string>
+    <string name="setting_api_key">API Key</string>
+    <string name="setting_save">保存</string>
+    <string name="setting_test">测试连接</string>
+    <string name="setting_saved">设置已保存</string>
+    <string name="status_connecting">连接中...</string>
+    <string name="status_connected">连接成功</string>
+    <string name="status_failed">连接失败</string>
+    <string name="loading">生成中...</string>
+    <string name="error_network">网络错误</string>
+    <string name="error_empty">内容不能为空</string>
+    <string name="error_api">API 错误</string>
+</resources>
